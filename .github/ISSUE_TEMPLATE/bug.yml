@@ -72,7 +72,7 @@ body:
     validations:
       required: false
   
-    - type: markdown
+  - type: markdown
     attributes:
       value: |
         **NOTE: Please be sure that the templates, rules and logs you provide as part of your bug report do not contain any sensitive information.**
