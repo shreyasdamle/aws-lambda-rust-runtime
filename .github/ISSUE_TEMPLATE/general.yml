@@ -14,9 +14,9 @@ body:
       label: General Issue
       description: |
         Important Information: Please look at:
-        - [Open issues](https://github.com/aws-cloudformation/cloudformation-guard/issues)
-        - All our [PRs](https://github.com/aws-cloudformation/cloudformation-guard/pulls?q=is%3Apr), both open and close
-        - Our [documentation](https://github.com/aws-cloudformation/cloudformation-guard#aws-cloudformation-guard) 
+        * [Open issues](https://github.com/aws-cloudformation/cloudformation-guard/issues)
+        * All our [PRs](https://github.com/aws-cloudformation/cloudformation-guard/pulls?q=is%3Apr), both open and close
+        * Our [documentation](https://github.com/aws-cloudformation/cloudformation-guard#aws-cloudformation-guard) 
         before creating an issue to see if your question was already answered.
     validations:
       required: true
