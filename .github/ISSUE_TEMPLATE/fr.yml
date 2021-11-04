@@ -50,11 +50,11 @@ body:
   
   
   - type: markdown
-    value: "### Community Note"
+  value: "## Welcome!"
   - type: markdown
-    attributes:
-      value: |
-        Please vote on this issue by adding a 👍 [reaction](https://blog.github.com/2016-03-10-add-reactions-to-pull-requests-issues-and-comments/) to the original issue to help the community and maintainers prioritize this request
+  attributes:
+    value: |
+      Thanks for taking the time to fill out this bug! If you need real-time help, join us on Discord.
      
 
   - type: markdown
