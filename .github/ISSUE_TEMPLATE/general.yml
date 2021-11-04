@@ -13,11 +13,10 @@ body:
     attributes:
       label: General Issue
       description: |
-        Important Information: Please look at:
+        Important Information - Please look at the following sections before creating an issue to see if your question was already answered.
         * [Open issues](https://github.com/aws-cloudformation/cloudformation-guard/issues)
         * All our [PRs](https://github.com/aws-cloudformation/cloudformation-guard/pulls?q=is%3Apr), both open and close
-        * Our [documentation](https://github.com/aws-cloudformation/cloudformation-guard#aws-cloudformation-guard) 
-        before creating an issue to see if your question was already answered.
+        * Our [documentation](https://github.com/aws-cloudformation/cloudformation-guard#aws-cloudformation-guard)
     validations:
       required: true
 
