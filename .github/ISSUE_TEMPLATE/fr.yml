@@ -47,10 +47,6 @@ body:
           required: false
         - label: This feature might incur a breaking change
           required: false
-  
-  
-  - type: markdown
-    value: "## Welcome!"
     
     
   - type: markdown
