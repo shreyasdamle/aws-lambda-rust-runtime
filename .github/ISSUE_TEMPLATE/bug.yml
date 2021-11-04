@@ -20,6 +20,11 @@ body:
         1. The output of a `-v` log level if it's not related to cfn-guard-lambda, or the relevant CloudWatch log messages if it is related to the cfn-guard-lambda
     validations:
       required: true
+   
+  - type: markdown
+    attributes:
+      value: |
+        **NOTE: Please be sure that the templates, rules and logs you provide as part of your bug report do not contain any sensitive information.**
 
   - type: textarea
     id: expected
@@ -71,11 +76,6 @@ body:
         e.g. detailed explanation, scrennshots, stacktraces, related issues, suggestions how to fix, links for us to have context, eg. associated pull-request, stackoverflow, slack, etc
     validations:
       required: false
-  
-  - type: markdown
-    attributes:
-      value: |
-        **NOTE: Please be sure that the templates, rules and logs you provide as part of your bug report do not contain any sensitive information.**
 
   - type: markdown
     attributes:
